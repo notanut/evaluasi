@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evaluasi/static/css/main.3712bb3b.css",
+    "main.js": "/evaluasi/static/js/main.620bd99e.js",
+    "static/media/curve-tool.png": "/evaluasi/static/media/curve-tool.a775386a208874bc20c2.png",
+    "static/media/group-people.png": "/evaluasi/static/media/group-people.8406d8b6ef623921f614.png",
+    "index.html": "/evaluasi/index.html",
+    "main.3712bb3b.css.map": "/evaluasi/static/css/main.3712bb3b.css.map",
+    "main.620bd99e.js.map": "/evaluasi/static/js/main.620bd99e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3712bb3b.css",
+    "static/js/main.620bd99e.js"
+  ]
+}
